@@ -1,0 +1,71 @@
+/*.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    font-family: Poppins, DM Sans, sans-serif;
+    font-size: medium;
+}*/
+
+.logo {
+    padding-bottom: 20px;
+}
+
+/*.navigation {
+    width: 98%;
+    height: 150px;
+    padding: 1%;
+    background-color: #E4E5E5;
+    color: black;
+}*/
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Poppins, sans-serif;
+}
+header {
+    background: white;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(228,229,229,1) 100%);
+}
+header ul {
+    float: right;
+}
+header li {
+    display: inline-block;
+    padding: 0px 30px;
+    font-family: Poppins, sans-serif; 
+}
+/*.nav ul {
+    width: 50%;
+    margin-left: auto;
+}*/
+
+.hero {
+    padding: 25px;
+    background: white;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 25%, rgba(85,192,185,1) 90%, rgba(85,192,185,1) 100%);
+}
+
+.content {
+    text-align: center;
+    width: 800px;
+    margin: 0 auto;
+    font-family: Poppins, DM Sans, sans-serif;
+}
+
+footer {
+    background: white;
+    background: linear-gradient(0deg, rgba(228,229,229,1) 0%, rgba(255,255,255,1) 100%);
+    padding: 20px;
+}
+footer ul {
+    float: right;
+}
+footer li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+footer p {
+    float: right;
+}
+
+button {
+    cursor: pointer;
+}
